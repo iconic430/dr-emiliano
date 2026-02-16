@@ -1,9 +1,0 @@
-
-{
-  "name": "Dr. Carlos Emiliano Contreras Chong - Médico Internista Sobrepeso",
-  "description": "Landing page profesional para el Dr. Carlos Emiliano Contreras Chong, médico internista especializado en el tratamiento integral del sobrepeso y salud metabólica.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
